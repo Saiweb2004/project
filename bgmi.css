@@ -55,22 +55,17 @@ nav a:hover {
   padding-top: 0%;
 }
 
-.play {
-  position: absolute;
-  margin-left: 4.7%;
-  margin-top: 24.7%;
-  font-size: 20px;
-}
 
-.play a {
+.content a {
   text-decoration: none;
   color: #fff;
   background-color: rgb(9, 92, 79);
-  padding: 17px;
+  padding: 14px;
   border-radius: 25px;
+  font-size: 20px;
 }
 
-.play a:hover
+.content a:hover
 {
   background-color: rgb(67, 126, 117);
 }
